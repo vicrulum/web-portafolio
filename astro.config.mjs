@@ -7,6 +7,5 @@ import tailwind from '@astrojs/tailwind';
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind()],
-  site: 'https://vicrulum.github.io/',
-  base:'web-portafolio'
+  site: 'https://vicrulum.github.io/'
 });
